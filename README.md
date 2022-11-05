@@ -1,2 +1,2 @@
-# webusb.github.io
+# PowermaticUSB.github.io
 For testing PEN tool
